@@ -49,5 +49,5 @@ The team name theme for Project 2: US Women's Long Distance Running team.
 **Hall**
 - Caleb Crumley, Jayant Parashar, Priyank Malviya
 - [GitHub](https://github.com/dsp-uga/hall-p2)
-- [pptx]()
-- [pdf]()
+- [gdoc](https://docs.google.com/presentation/d/1OaBQXN5S6ID2a8mI6gdx1T6EvZjGcsEmN5KsMEsl31I/)
+- [pdf](hall/hall.pdf)
