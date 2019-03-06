@@ -44,7 +44,7 @@ The team name theme for Project 2: US Women's Long Distance Running team.
 **Kieffer**
 - Narinder Singh, Mohammedreza Iman, Haixing (Harold) Dai
 - [GitHub](https://github.com/dsp-uga/Team-kieffer)
-- [pdf]()
+- [pdf](kieffer/kieffer.pdf)
 
 **Hall**
 - Caleb Crumley, Jayant Parashar, Priyank Malviya
