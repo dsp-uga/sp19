@@ -49,5 +49,4 @@ The team name theme for Project 3: [women in computing](https://en.wikipedia.org
 **Boehm**
 - Mohammadreza Iman, Anuj Panchmia, Lei Xian
 - [GitHub](https://github.com/dsp-uga/team-boehm-p3)
-- [gdoc]()
-- [pdf]()
+- [pdf](boehm/boehm.pdf)
