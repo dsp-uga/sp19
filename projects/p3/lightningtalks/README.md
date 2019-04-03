@@ -16,8 +16,7 @@ The team name theme for Project 3: [women in computing](https://en.wikipedia.org
 **Shirley**
 - Jiahao Xu, Marcus Hill, Narinder Singh
 - [GitHub](https://github.com/dsp-uga/team-shirley-p3)
-- [gdoc]()
-- [pdf]()
+- [pdf](shirley/shirley.pdf)
 
 **Coombs**
 - Anant Tripathi, Haixing Dai, Anirudh Kakarlapudi, Sushanth Kathirvelu
