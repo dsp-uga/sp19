@@ -10,8 +10,8 @@ The team name theme for Project 3: [women in computing](https://en.wikipedia.org
 **Hopper**
  - Caleb Crumley, Rutu Gandhi, Aashish Yadavally
  - [GitHub](https://github.com/dsp-uga/team-hopper-p3)
- - [pptx]()
- - [pdf]()
+ - [pptx](hopper/hopper.pptx)
+ - [pdf](hopper/hopper.pdf)
 
 **Shirley**
 - Jiahao Xu, Marcus Hill, Narinder Singh
