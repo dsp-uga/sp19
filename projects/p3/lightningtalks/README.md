@@ -21,8 +21,8 @@ The team name theme for Project 3: [women in computing](https://en.wikipedia.org
 **Coombs**
 - Anant Tripathi, Haixing Dai, Anirudh Kakarlapudi, Sushanth Kathirvelu
 - [GitHub](https://github.com/dsp-uga/team-coombs)
-- [pptx]()
-- [pdf]()
+- [ppt](coombs/coombs.ppt)
+- [pdf](coombs/coombs.pdf)
 
 **Keller**
 - Sumer Singh, Hemanth Dandu, Yang Shi, Dhaval Bhanderi
